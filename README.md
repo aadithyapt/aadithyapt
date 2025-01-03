@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADITHYA</h1>
-<h3 align="center">A Passionate Data Analyst | Turning Data into Insights | Storytelling with Numbers</h3>
+<h3 align="center">A Passionate Data Analyst | Turning Data into Insights | Storytelling with Numbers</h3> 
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Data Animation" width="400" height="200"/>
